@@ -1,0 +1,86 @@
+<manager id="1">
+  <registrations id="2">
+    <registration id="3">
+      <id>1</id>
+      <participant id="4">
+        <name>John</name>
+      </participant>
+      <event id="5">
+        <name>concert</name>
+        <eventDate id="6">2017-01-27</eventDate>
+        <startTime id="7">16:43:00</startTime>
+        <endTime id="8">20:43:00</endTime>
+      </event>
+    </registration>
+    <registration id="9">
+      <id>2</id>
+      <participant id="10">
+        <name>as</name>
+      </participant>
+      <event reference="5"/>
+    </registration>
+    <registration id="11">
+      <id>3</id>
+      <participant id="12">
+        <name>archie</name>
+      </participant>
+      <event reference="5"/>
+    </registration>
+  </registrations>
+  <participants id="13">
+    <participant reference="4"/>
+    <participant id="14">
+      <name>sdfgsdf</name>
+    </participant>
+    <participant reference="10"/>
+    <participant id="15">
+      <name>as</name>
+    </participant>
+    <participant id="16">
+      <name>as</name>
+    </participant>
+    <participant id="17">
+      <name>as</name>
+    </participant>
+    <participant id="18">
+      <name>as</name>
+    </participant>
+    <participant id="19">
+      <name>as</name>
+    </participant>
+    <participant id="20">
+      <name>as</name>
+    </participant>
+    <participant id="21">
+      <name>as</name>
+    </participant>
+    <participant id="22">
+      <name>as</name>
+    </participant>
+    <participant id="23">
+      <name>as</name>
+    </participant>
+    <participant id="24">
+      <name>as</name>
+    </participant>
+    <participant id="25">
+      <name>as</name>
+    </participant>
+    <participant id="26">
+      <name>qw</name>
+    </participant>
+    <participant id="27">
+      <name>s </name>
+    </participant>
+    <participant id="28">
+      <name>asd</name>
+    </participant>
+    <participant id="29">
+      <name>ads </name>
+    </participant>
+    <participant reference="12"/>
+  </participants>
+  <events id="30">
+    <event reference="5"/>
+  </events>
+</manager>
