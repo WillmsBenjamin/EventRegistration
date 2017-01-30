@@ -26,19 +26,20 @@
       </participant>
       <event reference="5"/>
     </registration>
+    <registration id="13">
+      <id>1</id>
+      <participant id="14">
+        <name>Alexie</name>
+      </participant>
+      <event reference="5"/>
+    </registration>
   </registrations>
-  <participants id="13">
+  <participants id="15">
     <participant reference="4"/>
-    <participant id="14">
+    <participant id="16">
       <name>sdfgsdf</name>
     </participant>
     <participant reference="10"/>
-    <participant id="15">
-      <name>as</name>
-    </participant>
-    <participant id="16">
-      <name>as</name>
-    </participant>
     <participant id="17">
       <name>as</name>
     </participant>
@@ -67,20 +68,33 @@
       <name>as</name>
     </participant>
     <participant id="26">
-      <name>qw</name>
+      <name>as</name>
     </participant>
     <participant id="27">
-      <name>s </name>
+      <name>as</name>
     </participant>
     <participant id="28">
-      <name>asd</name>
+      <name>qw</name>
     </participant>
     <participant id="29">
+      <name>s </name>
+    </participant>
+    <participant id="30">
+      <name>asd</name>
+    </participant>
+    <participant id="31">
       <name>ads </name>
     </participant>
     <participant reference="12"/>
+    <participant reference="14"/>
   </participants>
-  <events id="30">
+  <events id="32">
     <event reference="5"/>
+    <event id="33">
+      <name>aksjdhkajsdhakjsdhkajsdhakjd</name>
+      <eventDate id="34">2017-01-30</eventDate>
+      <startTime id="35">12:01:00</startTime>
+      <endTime id="36">19:01:00</endTime>
+    </event>
   </events>
 </manager>
